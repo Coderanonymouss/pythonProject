@@ -1,0 +1,6 @@
+Name,Age,Country,Profession,Salary,Education,Experience,Language,Email,Phone
+Alice,30,USA,Engineer,70000,Bachelor's Degree,5,English,alice@example.com,1234567890
+Bob,25,UK,Data Scientist,80000,Master's Degree,3,English,bob@example.com,9876543210
+Charlie,35,Canada,Software Developer,60000,Bachelor's Degree,8,English,charlie@example.com,1357924680
+David,40,Germany,Manager,90000,PhD,10,German,david@example.com,2468013579
+Emma,28,France,Designer,75000,Bachelor's Degree,6,French,emma@example.com,3692581470
